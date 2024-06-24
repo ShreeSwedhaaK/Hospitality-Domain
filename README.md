@@ -13,11 +13,11 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 # Create metrics
-Total Bookings
-Revenue
-Average Rating
-Total Capacity
-Total Successful bookings
-Occupancy %
-Total Cancelled Bookings
-Cancellation Rate
+- Total Bookings
+- Revenue
+- Average Rating
+- Total Capacity
+- Total Successful bookings
+- Occupancy %
+- Total Cancelled Bookings
+- Cancellation Rate
