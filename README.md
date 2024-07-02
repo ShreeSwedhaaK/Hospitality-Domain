@@ -21,3 +21,6 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - Total Successful bookings
 - Total Cancelled Bookings
 - Cancellation Rate
+# Data modelling
+![image](https://github.com/ShreeSwedhaaK/Hospitality-Domain/assets/173676056/f1e03a6a-0910-4778-89cc-16065ad44ed7)
+
